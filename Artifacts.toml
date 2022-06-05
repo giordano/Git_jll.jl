@@ -1,0 +1,16 @@
+[[Git]]
+arch = "aarch64"
+git-tree-sha1 = "6fd039494f8e488ecb99b2178b8970149f6c33b8"
+os = "macos"
+
+    [[Git.download]]
+    sha256 = "40362c8ff53f41053139b3aec0db68bb7edf54f35b38c612b0490b59f4eb6a82"
+    url = "https://github.com/giordano/Git_jll.jl/releases/download/Git-v2.36.1+0/Git.v2.36.1.aarch64-apple-darwin.tar.gz"
+[[Git]]
+arch = "x86_64"
+git-tree-sha1 = "9ae4008bf06b13d8f8347740b1a623c928d1368c"
+os = "macos"
+
+    [[Git.download]]
+    sha256 = "0d2eec43845f362e5acd75e05739712cc0e2be47dd1084bff0569a61463f9e53"
+    url = "https://github.com/giordano/Git_jll.jl/releases/download/Git-v2.36.1+0/Git.v2.36.1.x86_64-apple-darwin.tar.gz"
