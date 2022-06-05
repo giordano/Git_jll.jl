@@ -26,7 +26,6 @@ The tarballs for `Git_jll.jl` have been built from these sources:
 The following JLL packages are required by `Git_jll.jl`:
 
 * `Expat_jll`
-* `Gettext_jll`
 * `LibCURL_jll`
 * `Libiconv_jll`
 * `OpenSSL_jll`
